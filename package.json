@@ -1,0 +1,16 @@
+{
+  "name": "uniquegen",
+  "version": "1.0.0",
+  "description": "Creates template files for specific modding purposes for Baldurs gate 3",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/entry.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copy-paste": "^1.5.3",
+    "inquirer": "^9.2.10"
+  }
+}
