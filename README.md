@@ -52,8 +52,8 @@ Banana. Install NPM packages
    ```
 7. Just type the following in your favorite CLI/Terminal if you dont know what CLI is. Choosing either handle(s) or uuid(s) with a number, up to 100. All examples are below.
    ```js
-   node start handle 1
-   node start handles #
-   node start uuid 1
-   node start uuids #
+   npm start handle 1
+   npm start handles #
+   npm start uuid 1
+   npm start uuids #
    ```
